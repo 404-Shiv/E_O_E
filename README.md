@@ -2,7 +2,7 @@
 
 **EOE (Eye on Economy)** is a full-stack financial intelligence platform that integrates **real-time financial news, AI-based fake news detection, stock market analysis, and mutual fund insights** into a single web application.
 
-The platform helps users **analyze Indian stocks, evaluate mutual funds, track global markets, and verify the authenticity of financial news using machine learning.
+The platform helps users analyze Indian stocks, evaluate mutual funds, track global markets, and verify the authenticity of financial news using machine learning.
 ---
 
 #  Features
