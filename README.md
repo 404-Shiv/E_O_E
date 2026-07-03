@@ -7,7 +7,7 @@ The platform helps users analyze Indian stocks, evaluate mutual funds, track glo
 
 #  Features
 
-### Real-Time Financial 
+### Real-Time Financial News
 
 * Aggregates news from **multiple global financial sources**
 * Deduplicates and classifies articles automatically
